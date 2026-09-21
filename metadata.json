@@ -1,0 +1,6 @@
+{
+  "name": "Avicenna Hospital",
+  "description": "پلتفرم دیجیتال و سیستم طراحی وب‌سایت چندزبانه بیمارستان بین‌المللی ابن‌سینا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
